@@ -1,0 +1,20 @@
+h1, h2, a{
+  font-family: 'Syne Mono', monospace;
+}
+canvas{
+  image-rendering: pixelated;
+}
+img{
+  padding:5px;
+  border-radius: 50px;
+  transition: background .3s;
+  cursor: pointer;
+}
+img:hover{
+  background: #0f0;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

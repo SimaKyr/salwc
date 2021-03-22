@@ -1,0 +1,7 @@
+0 - air
+1 - wall
+2 - place
+3 - player
+4 - box
+5 - place + player
+6 - place + box
